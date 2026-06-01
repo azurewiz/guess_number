@@ -21,6 +21,6 @@ A feature-rich, command-line interface (CLI) number guessing game built with Pyt
 1. **Clone or Download the Repository**:
    Clone this repository to your local machine using terminal:
    
-   git clone https://github.com/azurewiz/guess_number
+   git clone https://github.com/azurewiz/guess_number.git
    
    cd [your-repo-folder-name]
