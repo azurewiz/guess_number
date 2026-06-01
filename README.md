@@ -24,3 +24,8 @@ A feature-rich, command-line interface (CLI) number guessing game built with Pyt
    git clone https://github.com/azurewiz/guess_number.git
    
    cd [your-repo-folder-name]
+
+
+2. **PROJECT URL**:
+   https://github.com/azurewiz/guess_number.git
+   
