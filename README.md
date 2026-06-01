@@ -27,5 +27,5 @@ A feature-rich, command-line interface (CLI) number guessing game built with Pyt
 
 
 2. **PROJECT URL**:
-   https://github.com/azurewiz/guess_number.git
+   [https://github.com/azurewiz/guess_number.git](https://roadmap.sh/projects/number-guessing-game)
    
